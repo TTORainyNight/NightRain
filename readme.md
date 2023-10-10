@@ -63,6 +63,8 @@
 ### 其他依赖项
 - pytorch安装完毕后。
 - 安装项目所需的依赖项，可以通过运行 `pip install -r requirements.txt` 命令一次性安装所有的依赖项。
+- 前往本项目的releases中，下载`hubert_base.pt`模型，以及至少一个资源包。
+- `hubert_base.pt`文件，需要放置在`\Source\rvc`目录中。
 
 ### 开发环境检查
 - 使用您喜欢的编辑器打开项目文件夹。
