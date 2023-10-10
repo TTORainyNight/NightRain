@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="image">
+    <file>../image/logo_name.png</file>
+    <file>../image/xiaomeng_V.jpg</file>
+    <file>../image/mainback.jpg</file>
+    <file>../image/logo.ico</file>
+    <file>../image/supportQR.jpg</file>
+    <file>../image/xiaomeng.jpg</file>
+  </qresource>
+</RCC>
