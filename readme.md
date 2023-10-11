@@ -68,7 +68,7 @@
 
 ### 开发环境检查
 - 使用您喜欢的编辑器打开项目文件夹。
-- 运行环境检测文件 `Code/main.py`，确保所有依赖项都已正确安装。
+- 运行环境检测文件 `Code/环境检测.py`，确保所有依赖项都已正确安装。
 
 ## 运行入口
 - 在配置好开发环境后，您可以尝试运行夜雨为伴的功能。
@@ -97,6 +97,23 @@
 - 添加新手指引。
 - 优化启动速度。
 - 精简应用大小。
+
+## 鸣谢（排名不分先后）
+- 个人：
+
+小孟要开心   Tornado   MSSQ企鹅
+
+- 开源项目：
+```
+      https://github.com/RVC-Project
+      https://github.com/Yidadaa/ChatGPT-Next-Web
+      https://github.com/shirobu2400/mmdpy
+      https://github.com/chatanywhere/GPT_API_free
+```
+
+## 赞助与支持
+
+![赞助](./Source/image/supportQR.jpg)
 
 ## 相关协议
 - 《夜雨为伴用户使用协议》
